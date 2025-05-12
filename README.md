@@ -106,6 +106,6 @@ O projeto foi desenvolvido para fortalecer o entendimento de estruturas de dados
 # Apresentação em Vídeo
 
 O grupo elaborou um vídeo explicativo demonstrando o funcionamento do sistema, disponível no YouTube:  
-[🔗 https://youtu.be/SEU-LINK-AQUI](https://youtu.be/vOs4HY91lLs)
+(https://youtu.be/vOs4HY91lLs)
 
 ---
